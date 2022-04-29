@@ -124,3 +124,6 @@ clearalltasks.addEventListener("click", (e) => {
 	selectedList.tasks = selectedList.tasks.filter((task) => !task.complete);
 	saveandrender();
 });
+
+console.log('vijay');
+console.log('akash');
